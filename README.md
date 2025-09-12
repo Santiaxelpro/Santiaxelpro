@@ -13,6 +13,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="40"/>
 <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Visual Studio Code" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt= HTML width="40">
 
 ## 📊 Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Santiaxelpro&show_icons=true&theme=radical)
