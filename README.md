@@ -19,7 +19,7 @@
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Santiaxelpro&show_icons=true&theme=radical)
 
 ## 🌟 Proyectos destacados
-- **[Yupify](https://github.com/Santiaxelpro/Yupify)**: Un Spotify sin anuncios, hecho en HTML, CSS y JS.
+- **[Yupify](https://github.com/Santiaxelpro/Yupify-Reworked)**: Música sin anuncios, utilizando HiFi API.
 - **[L-Goth-Store](https://github.com/Santiaxelpro/L-Goth-Store)**: La página web de una tienda, próximamente.
 
 ## 📝 Contribuciones
